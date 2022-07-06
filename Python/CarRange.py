@@ -28,3 +28,5 @@ for each in l:
         print(v*FinalDecrease)
     else:
         print(m*v)
+
+#incomplete code
