@@ -26,7 +26,7 @@ for each in l:
     if(p>1):
         FinalDecrease = m-(p-1)
         print(v*FinalDecrease)
-    else:
+    else: 
         print(m*v)
 
 #incomplete code
