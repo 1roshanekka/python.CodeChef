@@ -20,7 +20,7 @@ class CountingWords{
         }
         
         for(j=0;j<T;j++){
-            System.out.println(arr[j]);
+            System.out.println(arr);
         }
     }
 }
