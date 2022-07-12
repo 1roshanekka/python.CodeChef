@@ -1,4 +1,5 @@
-import java.lang.*;
+//import java.lang.*; 
+//java.lang is already present in every program so not need to import
 import java.util.*;
 
 class CountingWords{
