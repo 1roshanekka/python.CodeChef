@@ -5,8 +5,17 @@
 
 n = int(input())
 d = {}
-for i  i
+
+
+l = []
 
 for i in range(n):
     x,y,a = map(int, input().split())
+    if(x<=a<y):
+        l.append('YES')
+    else:
+        l.append('NO')
+
+for i in range(n):
+    print(l[i])
 
