@@ -1,0 +1,1 @@
+output[i] = n-top2 ;
